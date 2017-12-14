@@ -5,10 +5,11 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"median/metric"
 	"os"
 	"strconv"
 	"strings"
+
+	"github.com/bayrinat/median/metric"
 )
 
 func usage() string {

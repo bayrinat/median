@@ -3,8 +3,9 @@ package metric
 import (
 	"container/heap"
 	"fmt"
+
+	"github.com/bayrinat/median/structs"
 	"github.com/pkg/errors"
-	"median/structs"
 )
 
 type Delay interface {

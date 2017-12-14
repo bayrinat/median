@@ -1,9 +1,10 @@
 package metric
 
 import (
-	"median/structs"
 	"reflect"
 	"testing"
+
+	"github.com/bayrinat/median/structs"
 )
 
 func TestNewDelay(t *testing.T) {
