@@ -1,5 +1,5 @@
- [![Build Status](https://travis-ci.org/bayrinat/median.svg?branch=master)](https://travis-ci.org/bayrinat/median)
-
+[![Build Status](https://travis-ci.org/bayrinat/median.svg?branch=master)](https://travis-ci.org/bayrinat/median)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bayrinat/median)](https://goreportcard.com/report/github.com/bayrinat/median)
  ## Installation
  ```
  go build
